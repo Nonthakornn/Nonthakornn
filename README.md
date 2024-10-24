@@ -1,5 +1,4 @@
 <h1 align="center">👋</h1>
-<h3 align="center">Passionate about the field of Cybersecurity.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
