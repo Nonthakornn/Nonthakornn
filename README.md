@@ -36,7 +36,7 @@
    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
    </a>
-    <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="argocd" width="40" height="40"/>
-    </a>
+ <a href="https://argoproj.github.io/argo-cd/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/>
+</a>
 </p>
